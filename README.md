@@ -80,10 +80,13 @@ All responses follow strict JSON schema with trace_id and timestamp.
 
 <img width="1359" height="716" alt="image" src="https://github.com/user-attachments/assets/8c920175-8c1d-4399-9e95-529f384228ea" />
 
+-------
 
 /zone/traffic?zone_id=mumbai_zone_1 response:
 
 <img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/335f5d89-f9d4-441e-8706-36bb9e58b250" />
+
+-------
 
 http://127.0.0.1:8000/docs
 
