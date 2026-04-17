@@ -1,0 +1,10 @@
+[
+  {
+    "alert": "HIGH_TRAFFIC",
+    "threshold": 70
+  },
+  {
+    "alert": "HIGH_VIOLATION",
+    "threshold": 2
+  }
+]
