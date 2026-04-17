@@ -17,17 +17,17 @@ The system processes input data, generates structured events, applies rules, and
 
 * Converts all inputs into a strict structured format
 * Ensures consistency using a fixed schema:
-zone_id
+- zone_id
 
-traffic_density  
+- traffic_density  
 
-violation_count  
+- violation_count  
 
-congestion_level  
+- congestion_level  
 
-timestamp  
+- timestamp  
 
-trace_id
+- trace_id
 
 ### 3. Zone-Based System
 
@@ -105,8 +105,9 @@ Displays:
 
 <img width="1347" height="716" alt="image" src="https://github.com/user-attachments/assets/125aec27-6992-4926-b88b-6bc8fb35f1d5" />
 
+-------
 
-#### Data Flow
+### Data Flow
 
 Input → Event Creation → Intelligence → Rules → Alerts → Actions → API → Dashboard
 
