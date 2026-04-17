@@ -17,6 +17,7 @@ The system processes input data, generates structured events, applies rules, and
 
 * Converts all inputs into a strict structured format
 * Ensures consistency using a fixed schema:
+
 -zone_id
 -traffic_density  
 -violation_count  
@@ -63,8 +64,11 @@ Actions taken:
 ### 7. API Layer (FastAPI)
 
 Endpoints:
+
 /zone/traffic?zone_id=... → single zone data
+
 /zone/state → all zones state
+
 /alerts → alerts output
 
 All responses follow strict JSON schema with trace_id and timestamp.
