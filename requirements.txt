@@ -1,0 +1,9 @@
+pip install ultralytics opencv-python streamlit 
+
+pip install fastapi uvicorn
+
+python app.py
+
+python -m uvicorn api:app --reload
+
+streamlit run dashboard.py
