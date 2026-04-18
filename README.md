@@ -62,15 +62,7 @@ streamlit run dashboard.py
 * Rule-based alerts
 * Real-time API + dashboard
 
----
-
-## ⚠️ Limitations
-
-* In-memory storage
-* Basic rules
-* Vision not used in decisions
-
----
+----
 
 ## 🎯 Conclusion
 
