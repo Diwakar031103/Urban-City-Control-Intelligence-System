@@ -49,7 +49,7 @@ Input → Event → Intelligence → Rules → Alerts → API → Dashboard
 ## 🚀 Run
 
 ```bash
-uvicorn api:app --reload
+python -m uvicorn api:app --reload
 streamlit run dashboard.py
 ```
 
