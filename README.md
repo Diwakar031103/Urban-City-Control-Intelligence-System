@@ -1,6 +1,6 @@
 # 🚦 UCCIS Real-Time Traffic Intelligence System
 
-## 📌 Overview
+## Overview
 
 This project implements a real-time Urban City Control Intelligence System (UCCIS) that monitors traffic conditions, analyzes congestion, generates optimized signal plans, and triggers alerts using a rule-based engine.
 
@@ -8,7 +8,7 @@ The system integrates video processing, backend APIs, and a dashboard to provide
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Real-time traffic data processing
 * Dynamic signal timing generation
@@ -18,7 +18,7 @@ The system integrates video processing, backend APIs, and a dashboard to provide
 
 ---
 
-## 📸 System Execution
+## System Execution
 
 ### 🔹 Engine Running & Signal Processing
 
@@ -137,7 +137,7 @@ This proves that the rule engine is actively monitoring and responding to traffi
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 * Vision Engine → Detects vehicles from video input
 * Intelligence Engine → Processes traffic data
@@ -148,7 +148,7 @@ This proves that the rule engine is actively monitoring and responding to traffi
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The system successfully demonstrates:
 
@@ -163,7 +163,7 @@ Overall, the project provides a complete and functional simulation of an intelli
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 pip install ultralytics opencv-python streamlit 
 
