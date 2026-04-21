@@ -166,21 +166,4 @@ streamlit run dashboard.py
 
 ---
 
-## 📂 Project Structure
-
-UCCIS/
- ├── app.py
- ├── api.py
- ├── dashboard.py
- ├── signal_engine.py
- ├── rule_engine.py
- ├── intelligence_engine.py
- ├── screenshots/
- │     ├── engine.png
- │     ├── dashboard.png
- │     ├── zone_traffic.png
- │     ├── zone_state.png
- │     ├── api_docs.png
- │     └── alerts.png
- └── README.md
 
