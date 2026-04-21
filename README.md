@@ -22,7 +22,8 @@ The system integrates video processing, backend APIs, and a dashboard to provide
 
 ### 🔹 Engine Running & Signal Processing
 
-![Engine](screenshots/engine.png)
+![Uploading image.png…]()
+
 
 This screenshot shows the real-time execution of the system engine.
 
